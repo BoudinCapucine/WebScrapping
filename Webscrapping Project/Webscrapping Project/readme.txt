@@ -8,4 +8,6 @@ or
 Then you should open Anaconda Prompt, go to the app folder using cd commands and then run: 
 streamlit run app.py 
 
+Link to the repository : https://github.com/BoudinCapucine/WebScrapping.git
+
 Enjoy !
